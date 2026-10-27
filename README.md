@@ -12,3 +12,5 @@ Garage: 0/1 fordon | 1 lediga platser<br>
 (7) Visa lediga platser<br>
 (0) Avsluta<br>
 Välj:<br>
+
++ I övningen används en Array
