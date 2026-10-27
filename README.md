@@ -1,4 +1,4 @@
-#  Välkommen till Walters Garage v1.0<br>
+#  Walters Garage v1.0<br>
 Ange garagets kapacitet (1-100 fordon): 1<br>
 Vill du lägga in exempel-fordon vid start? (j/n): n<br>
 <br>
@@ -13,4 +13,5 @@ Garage: 0/1 fordon | 1 lediga platser<br>
 (0) Avsluta<br>
 Välj:<br>
 
+# Välkommen
 + I övningen används en Array
