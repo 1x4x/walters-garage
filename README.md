@@ -1,7 +1,7 @@
-#--------------------------------------
-#  Välkommen till Walters Garage v1.0
-#--------------------------------------
-Ange garagets kapacitet (1-100 fordon): 1
+#--------------------------------------<br>
+#  Välkommen till Walters Garage v1.0<br>
+#--------------------------------------<br>
+Ange garagets kapacitet (1-100 fordon): 1<br>
 Vill du lägga in exempel-fordon vid start? (j/n): n
 
 Garage: 0/1 fordon | 1 lediga platser
